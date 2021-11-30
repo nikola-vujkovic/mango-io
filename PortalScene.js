@@ -35,6 +35,7 @@ const PortalScene = () => {
         alignment={'Horizontal'}> */}
       <ViroPortalScene passable={true}>
         <ViroPortal position={[0, 0, -1]} scale={[0.1, 0.1, 0.1]}>
+          {/* scale of portal before the change was 1.3 */}
           <Viro3DObject
             //   position={[0, -1, 0]}
             source={require('./resources/ViroPortal/portal_archway.vrx')}
