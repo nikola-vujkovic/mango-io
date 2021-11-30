@@ -1,4 +1,4 @@
-# Viro Starter Kit
+# Mango.io - powered by Viro Starter Kit
 
 This is a blank React Native project setup with Viro.
 Modified by creator of this repository to test 3DObject, Portal and Image Recognition features.
