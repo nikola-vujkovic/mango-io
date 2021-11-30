@@ -1,14 +1,18 @@
 # Viro Starter Kit
 
 This is a blank React Native project setup with Viro.
+Modified by creator of this repository to test 3DObject, Portal and Image Recognition features.
 
 ## Installation
 
-1. `git clone https://github.com/ViroCommunity/starter-kit.git`
-2. `cd starter-kit`
+1. `git clone https://github.com/ViroCommunity/mango-io.git`
+2. `cd mango-io`
 3. `npm install`
-4. `npx pod-install` (iOS)
-5. `npx react-native run-android` or `npx react-native run-ios`
+4. `cd ios && pod install` (iOS)
+5. `npx react-native run-android` or `npm run android` for Android
+6. `npx react-native run-ios` or `npm run ios` for iOS
+
+RUNNING ON SIMULATORS IS NOT POSSIBLE. Only run on physical devices.
 
 NOTE: The variant arguments are not needed for debug or release.
 
